@@ -1,6 +1,18 @@
 # LITA-PROJECT
 
 ### Project Title: Pivot Table
+
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Exploratory Data Analysis
+
+[Data Analysis](#data-anaysis)
 ---
 
 ### Project Overview
@@ -41,3 +53,6 @@ This is where we include some basic lines of code or queries or even some of the
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+|Heading 1| Heading 2| Heading 3|
+|---------|----------|----------|
+|Table 1|Table 2|Table 3|
